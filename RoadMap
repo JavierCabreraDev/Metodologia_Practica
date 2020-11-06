@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-30T13:18:24.433Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 OPR/71.0.3770.287" etag="DXrvvp6xUfDo_9dVv2p3" version="13.8.7" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2020-11-06T12:57:33.277Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 OPR/71.0.3770.310" etag="thGY5OIHb9L3Zjlvb7lG" version="13.8.8" type="github" pages="4">
   <diagram id="75KhnNU7YLqmzOHf2gld" name="Integrado">
     <mxGraphModel dx="1381" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5js4JNqYsakXMqOk0tPA" name="Pre-Game">
-    <mxGraphModel dx="1381" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="789" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -294,7 +294,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="nDB2yd64p3ZmTSI2SWDB" name="Game">
-    <mxGraphModel dx="2443" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4416" dy="1548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="sPTwm5iHmwI_CsoejaCn-0" />
         <mxCell id="sPTwm5iHmwI_CsoejaCn-1" parent="sPTwm5iHmwI_CsoejaCn-0" />
@@ -852,7 +852,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AZGHFwXHHopvE4Cv-9dw-1" value="" style="endArrow=classic;html=1;dashed=1;dashPattern=1 1;strokeColor=#FF8000;strokeWidth=10;" edge="1" parent="sPTwm5iHmwI_CsoejaCn-1">
+        <mxCell id="AZGHFwXHHopvE4Cv-9dw-1" value="" style="endArrow=classic;html=1;dashed=1;dashPattern=1 1;strokeColor=#FF8000;strokeWidth=10;" parent="sPTwm5iHmwI_CsoejaCn-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-820" y="1840" as="sourcePoint" />
             <mxPoint x="-720" y="1840" as="targetPoint" />
@@ -861,7 +861,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AZGHFwXHHopvE4Cv-9dw-2" value="" style="endArrow=classic;html=1;strokeWidth=10;" edge="1" parent="sPTwm5iHmwI_CsoejaCn-1">
+        <mxCell id="AZGHFwXHHopvE4Cv-9dw-2" value="" style="endArrow=classic;html=1;strokeWidth=10;" parent="sPTwm5iHmwI_CsoejaCn-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-820" y="1920" as="sourcePoint" />
             <mxPoint x="-720" y="1920" as="targetPoint" />
@@ -870,7 +870,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="AZGHFwXHHopvE4Cv-9dw-4" value="" style="endArrow=classic;html=1;strokeColor=#00FF00;strokeWidth=10;dashed=1;" edge="1" parent="sPTwm5iHmwI_CsoejaCn-1">
+        <mxCell id="AZGHFwXHHopvE4Cv-9dw-4" value="" style="endArrow=classic;html=1;strokeColor=#00FF00;strokeWidth=10;dashed=1;" parent="sPTwm5iHmwI_CsoejaCn-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-820" y="2000" as="sourcePoint" />
             <mxPoint x="-720" y="2000" as="targetPoint" />
