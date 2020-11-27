@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-27T01:19:42.430Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 OPR/71.0.3770.323" etag="uSA2CSYkPWFlmvO41aaf" version="13.10.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-11-27T01:20:29.344Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 OPR/71.0.3770.323" etag="QXKG_2eomwuuFQuJM1rV" version="13.10.4" type="github" pages="3">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Pre-Game">
     <mxGraphModel dx="1589" dy="879" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="1">
       <root>
@@ -1601,8 +1601,8 @@
         <mxCell id="5vIMMN60UEh02nGvYcKM-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeWidth=2;dashed=1;dashPattern=1 4;" edge="1" parent="gT6b9tPFAWT8h3rmXJ74-1" source="5vIMMN60UEh02nGvYcKM-31" target="5vIMMN60UEh02nGvYcKM-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="485" y="605" />
-              <mxPoint x="670" y="605" />
+              <mxPoint x="485" y="610" />
+              <mxPoint x="670" y="610" />
               <mxPoint x="670" y="555" />
             </Array>
           </mxGeometry>
@@ -1615,6 +1615,15 @@
         </mxCell>
         <mxCell id="5vIMMN60UEh02nGvYcKM-33" value="" style="shape=mxgraph.bpmn.script_task;html=1;outlineConnect=0;rounded=0;shadow=1;glass=0;gradientColor=none;" vertex="1" parent="gT6b9tPFAWT8h3rmXJ74-1">
           <mxGeometry x="478" y="680" width="14" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="A56q1WW7xS0IG4dZ-Su3-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;strokeWidth=2;dashed=1;dashPattern=1 4;" edge="1" parent="gT6b9tPFAWT8h3rmXJ74-1" source="5vIMMN60UEh02nGvYcKM-35">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="935" y="610" />
+              <mxPoint x="770" y="610" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="5vIMMN60UEh02nGvYcKM-35" value="Task board" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=0;shadow=1;glass=0;gradientColor=none;size=20;" vertex="1" parent="gT6b9tPFAWT8h3rmXJ74-1">
           <mxGeometry x="870" y="630" width="130" height="75" as="geometry" />
