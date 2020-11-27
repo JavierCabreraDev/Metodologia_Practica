@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-27T00:46:32.978Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 OPR/71.0.3770.323" etag="uzj7OWesi_5dLRn9blej" version="13.10.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-11-27T00:49:23.668Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 OPR/71.0.3770.323" etag="jnlZrrJpAXRGwKwoiq_N" version="13.10.4" type="github" pages="2">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Pre-Game">
     <mxGraphModel dx="1589" dy="879" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="1">
       <root>
@@ -1188,7 +1188,7 @@
         <mxCell id="gGg6vH18oqVuSa0sxrPB-0" value="Sprint planning" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;shadow=1;glass=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="-ivD1RnK2b1TeEtyX8an-1">
           <mxGeometry x="245" y="40" width="680" height="1700" as="geometry" />
         </mxCell>
-        <mxCell id="gGg6vH18oqVuSa0sxrPB-1" value="Scrum Master&lt;br&gt;&amp;nbsp;team" style="swimlane;html=1;startSize=30;" vertex="1" parent="gGg6vH18oqVuSa0sxrPB-0">
+        <mxCell id="gGg6vH18oqVuSa0sxrPB-1" value="Scrum Master&lt;br&gt;&amp;nbsp;team" style="swimlane;html=1;startSize=30;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="gGg6vH18oqVuSa0sxrPB-0">
           <mxGeometry y="20" width="240" height="1680" as="geometry" />
         </mxCell>
         <mxCell id="YnpZ28cVOQzm-k7wB7gG-0" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=1;glass=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="gGg6vH18oqVuSa0sxrPB-1">
@@ -1226,13 +1226,13 @@
         <mxCell id="3JA-3wDhio7hg6KM3G44-32" value="Stimed?" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;background=gateway;outlineConnect=0;outline=none;symbol=exclusiveGw;" vertex="1" parent="gGg6vH18oqVuSa0sxrPB-1">
           <mxGeometry x="95" y="1120" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="YnpZ28cVOQzm-k7wB7gG-7" value="Product owner" style="swimlane;startSize=30;shadow=1;glass=0;" vertex="1" parent="gGg6vH18oqVuSa0sxrPB-0">
+        <mxCell id="YnpZ28cVOQzm-k7wB7gG-7" value="Product owner" style="swimlane;startSize=30;shadow=1;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="gGg6vH18oqVuSa0sxrPB-0">
           <mxGeometry x="240" y="20" width="220" height="1680" as="geometry" />
         </mxCell>
         <mxCell id="3JA-3wDhio7hg6KM3G44-14" value="scope change?" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;background=gateway;outlineConnect=0;outline=none;symbol=exclusiveGw;" vertex="1" parent="YnpZ28cVOQzm-k7wB7gG-7">
           <mxGeometry x="85" y="670" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="gGg6vH18oqVuSa0sxrPB-2" value="Team" style="swimlane;html=1;startSize=30;" vertex="1" parent="gGg6vH18oqVuSa0sxrPB-0">
+        <mxCell id="gGg6vH18oqVuSa0sxrPB-2" value="Team" style="swimlane;html=1;startSize=30;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="gGg6vH18oqVuSa0sxrPB-0">
           <mxGeometry x="460" y="20" width="220" height="1680" as="geometry" />
         </mxCell>
         <mxCell id="3JA-3wDhio7hg6KM3G44-39" value="Ready?" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;align=center;perimeter=rhombusPerimeter;background=gateway;outlineConnect=0;outline=none;symbol=exclusiveGw;" vertex="1" parent="gGg6vH18oqVuSa0sxrPB-2">
