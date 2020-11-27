@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-27T00:49:04.148Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 OPR/71.0.3770.323" etag="jBOQVq66I3wIufSS3n58" version="13.10.4" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2020-11-27T00:52:03.450Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 OPR/71.0.3770.323" etag="IgvPEy9YZdK9TOn3Yj5D" version="13.10.4" type="github" pages="9">
   <diagram id="75KhnNU7YLqmzOHf2gld" name="Integrado">
     <mxGraphModel dx="4540" dy="2511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3847,7 +3847,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Game BP-AP" id="LWHBOB0VXIeRfgLoJKP6">
-    <mxGraphModel dx="2184" dy="293" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2024" dy="204" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="4a9b424mNGllTTm0Exuh-0" />
         <mxCell id="4a9b424mNGllTTm0Exuh-1" parent="4a9b424mNGllTTm0Exuh-0" />
@@ -4349,9 +4349,6 @@
         </mxCell>
         <mxCell id="4a9b424mNGllTTm0Exuh-140" value="&lt;b&gt;&lt;u&gt;&lt;font style=&quot;font-size: 18px&quot;&gt;Development&lt;/font&gt;&lt;/u&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="4a9b424mNGllTTm0Exuh-1" vertex="1">
           <mxGeometry x="-820" y="360" width="129.67" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="4a9b424mNGllTTm0Exuh-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="4a9b424mNGllTTm0Exuh-1" source="4a9b424mNGllTTm0Exuh-140" target="4a9b424mNGllTTm0Exuh-140" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4a9b424mNGllTTm0Exuh-142" value="" style="group" parent="4a9b424mNGllTTm0Exuh-1" vertex="1" connectable="0">
           <mxGeometry x="-540" y="440" width="260" height="430" as="geometry" />
