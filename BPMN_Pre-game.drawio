@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-30T19:55:39.807Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 OPR/71.0.3770.441" etag="dMuIfGKUJSWYCseQL2t6" version="13.10.4" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2020-11-30T19:57:04.025Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36 OPR/71.0.3770.441" etag="CtoNg7P9nsvDvGbZMPTS" version="13.10.4" type="github" pages="11">
   <diagram name="Planning" id="XW2Fe1h-RJ-dhcVb71Kr">
     <mxGraphModel dx="2513" dy="1460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="1">
       <root>
@@ -704,14 +704,6 @@
         <mxCell id="AC2ZuWook7m0WVxLtHC0-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="j9mQKFum5xkmwVCitEWR-1" source="X4OfLSYH3XUt-1BlmDn7-0" target="AC2ZuWook7m0WVxLtHC0-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="mq2wKcn0Mo-wUwa8DrO_" name="Game integrated">
-    <mxGraphModel dx="1005" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
-      <root>
-        <mxCell id="0L4eGzVCIVDEZi-DjKfG-0" />
-        <mxCell id="0L4eGzVCIVDEZi-DjKfG-1" parent="0L4eGzVCIVDEZi-DjKfG-0" />
       </root>
     </mxGraphModel>
   </diagram>
@@ -2111,7 +2103,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gmwILlCTALtxF6MHFDG7" name="Post-Game">
-    <mxGraphModel dx="1005" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1675" dy="973" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="6_bZRUcbr5d6S-LxAu5--0" />
         <mxCell id="6_bZRUcbr5d6S-LxAu5--1" parent="6_bZRUcbr5d6S-LxAu5--0" />
