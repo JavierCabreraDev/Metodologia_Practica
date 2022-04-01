@@ -6,6 +6,6 @@ Implementando tecnologías adecuadas para entregar resultados concretos.
 
 EL diagrama entregado por mi parte el cual fue empleado dentro de un publicación por parte de los docentes.
 
-Para ver el diagrama se debe descargar el arcihvo ## **<BPMN_Pre-game.drawio>** y abrir desde el software ## **<draw.io>**
+Para ver el diagrama se debe descargar el arcihvo **<BPMN_Pre-game.drawio>** y abrir desde el software **<draw.io>**
 
 
